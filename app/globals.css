@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-brand: #1A1E5A;
+  --gold-divine: #FFC700;
+  --red-worship: #7A0000;
+}
+
+body {
+  background-color: #050F23;
+  color: #F8FAFC;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FFF1B0 0%, #FFC700 50%, #E5A900 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
