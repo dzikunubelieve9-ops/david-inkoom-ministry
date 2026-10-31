@@ -120,3 +120,4 @@ Access Admin login at `http://localhost:3000/admin/login` or footer link.
 - **Admin Email**: `admin@davidinkoom.org`
 - **Default Password**: `Anointing2026!`
 - **Shortcut**: `Ctrl + Shift + A`
+"# david-inkoom-ministry" 
